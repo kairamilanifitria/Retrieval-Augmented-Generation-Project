@@ -1,0 +1,4 @@
+streamlit 
+generative ai google
+PyPDF2
+FAISS
